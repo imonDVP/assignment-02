@@ -62,7 +62,7 @@
     justify-content: center;
     align-items: center;
     background-color: black;
-    border: 1px solid rgba(0, 0, 0, 0.171);
+    border: 1px solid rgba(26, 26, 26, 0.171);
     border-radius: 15px;
     box-shadow: -1px 1px 1px inset;
 }
@@ -70,7 +70,7 @@
 .nav-menu-btn {
     margin: 0 5px;
     color: white;
-    background-color: black;
+    background-color: rgb(23, 23, 23);
     border: none;
     outline: none;
 }
